@@ -3,3 +3,9 @@
 *.gcov
 redis.info
 lcov-html
+
+
+*.exe
+.idea
+cmake-build-debug
+CMakeLists.txt
